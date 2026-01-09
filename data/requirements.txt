@@ -1,5 +1,5 @@
+streamlit
 pandas
 numpy
-requests
-streamlit
 plotly
+py_vollib
